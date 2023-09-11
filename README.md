@@ -11,3 +11,7 @@ In the opening phase, the players alternate turns, with Dark going first. In thi
 In the main phase, each move must capture at least one of the other player’s tiles, as follows. The current player places a tile in an unoccupied square so that it forms at least one straight line—horizontal, vertical, or diagonal—with one or more of the other player’s tiles in the middle and one of the current player’s tiles on the other end. Then the other player’s tiles in the line(s) are flipped to the current player.
 
 The players take turns unless one player cannot play, in which case the other player may play again. The game is over when neither player can play. The winner is the player with more tiles on the final board (or it may be a tie).
+
+## Gameplay:
+
+![Reversi clip](https://github.com/EthanSterling04/Reversi/assets/60374501/9aee4c73-4257-4876-9f26-2767333c7970)
