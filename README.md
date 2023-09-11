@@ -14,4 +14,4 @@ The players take turns unless one player cannot play, in which case the other pl
 
 ## Gameplay:
 
-![Reversi clip](https://github.com/EthanSterling04/Reversi/assets/60374501/9aee4c73-4257-4876-9f26-2767333c7970)
+<img src="https://github.com/EthanSterling04/Reversi/assets/60374501/9aee4c73-4257-4876-9f26-2767333c7970" width="50%" height="auto">
